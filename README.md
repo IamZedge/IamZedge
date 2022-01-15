@@ -1,3 +1,2 @@
 👋 Hi, I’m @IamZedge
-    I like to code, I’m currently learning ...
-21 y/o. Born in GER
+    I like to code, 21 y/o. Born in GER
